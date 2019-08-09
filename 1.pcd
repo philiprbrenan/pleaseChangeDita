@@ -1,2 +1,5 @@
-Deduplicate b
+PS2-691 unwrap b under b
   unwrap b b
+
+PS2-670 unwrap b under p
+  unwrap b p
