@@ -1,5 +1,5 @@
 PS2-671 unwrap b under b
   unwrap b b
 
-PS2-672 unwrap b under p
-  unwrap b p
+#PS2-672 unwrap b under p
+#  unwrap b p
